@@ -6,6 +6,16 @@
 
 /*custom ppb*/
 
+.thumbnail{
+	-moz-transition: opacity .25s ease-in-out;
+						-webkit-transition: opacity .25s ease-in-out;
+						-ms-transition: opacity .25s ease-in-out;
+						transition: opacity .25s ease-in-out;
+}
+.thumbnail:hover{
+	opacity: 0.9;
+}
+
 /*coverr video
 
 .homepage-hero-module {
