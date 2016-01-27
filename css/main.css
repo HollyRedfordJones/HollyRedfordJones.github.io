@@ -801,7 +801,7 @@
 /* Basic */
 
 	body {
-		background-image: url("images/overlay.png"), url("images/bg3.jpg");
+		background-image: url("images/overlay.png"), url("images/bg3_compressed.jpg");
 		background-repeat: repeat, no-repeat;
 		background-size: auto, auto;
 		font-family: 'Source Sans Pro', sans-serif;
