@@ -803,7 +803,8 @@
 	body {
 		background-image: url("images/overlay.png"), url("images/bg3_compressed.jpg");
 		background-repeat: repeat, no-repeat;
-		background-size: auto, auto;
+		background-size: 100%;
+		background-color:rgb(0,0,53);
 		font-family: 'Source Sans Pro', sans-serif;
 		font-weight: 300;
 		color: #777777;
